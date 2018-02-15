@@ -1,14 +1,5 @@
 {
-  "name": "1st_demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "2018-eslit",
   "devDependencies": {
     "eslint": "4.16.0"
   }
