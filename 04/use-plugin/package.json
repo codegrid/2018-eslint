@@ -1,0 +1,8 @@
+{
+  "name": "2018-eslit",
+  "devDependencies": {
+    "eslint": "4.18.2",
+    "eslint-plugin-node": "6.0.1"
+  },
+  "dependencies": {}
+}

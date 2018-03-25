@@ -1,0 +1,16 @@
+{
+  "name": "use-config-cg2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "3.0.0",
+    "eslint-config-cg2018": "github:codegrid/eslint-config-cg2018"
+  }
+}
