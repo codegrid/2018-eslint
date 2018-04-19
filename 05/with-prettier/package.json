@@ -1,0 +1,11 @@
+{
+  "name": "with-prettier",
+  "description": "",
+  "devDependencies": {
+    "eslint": "4.18.2",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-node": "6.0.1",
+    "eslint-plugin-prettier": "2.6.0",
+    "prettier": "1.12.1"
+  }
+}

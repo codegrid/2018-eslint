@@ -1,0 +1,7 @@
+{
+  "name": "use-prettier",
+  "description": "",
+  "devDependencies": {
+    "prettier": "1.12.1"
+  }
+}
